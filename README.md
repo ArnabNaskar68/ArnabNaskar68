@@ -11,7 +11,7 @@ Chilling and Coding
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=ArnabNaskar68&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-                  [![](https://visitcount.itsvg.in/api?id=arnab68naskar&label=Profile%20Views&color=0&icon=3&pretty=false)](https://visitcount.itsvg.in)
+            
 
 
 ### ✍️ Random Dev Quote 
@@ -21,7 +21,6 @@ Chilling and Coding
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ArnabNaskar68&icon=0&color=9)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=arnab68naskar&label=arnabnaskar68%40gmail.com&color=0&icon=3&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=arnab68naskar&label=Profile%20Views&color=0&icon=3&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
