@@ -11,8 +11,7 @@ Chilling and Coding
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=ArnabNaskar68&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-                  ![](https://github-readme-streak-stats.herokuapp.com/?user=ArnabNaskar68&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnabNaskar68&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+                  [![](https://visitcount.itsvg.in/api?id=arnab68naskar&label=Profile%20Views&color=0&icon=3&pretty=false)](https://visitcount.itsvg.in)
 
 
 ### ✍️ Random Dev Quote 
