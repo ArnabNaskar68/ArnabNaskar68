@@ -23,5 +23,6 @@ Chilling and Coding
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ArnabNaskar68&icon=0&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=arnab68naskar&label=arnabnaskar68%40gmail.com&color=0&icon=3&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
